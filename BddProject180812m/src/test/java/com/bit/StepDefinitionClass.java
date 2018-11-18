@@ -73,6 +73,7 @@ public class StepDefinitionClass {
 	@Then("^user should be in profile page$")
 	public void user_should_be_in_profile_page() throws Throwable {
 	    System.out.println("user is profile page");
+	    System.out.println("this is peal branch");
 	}
 
 	
